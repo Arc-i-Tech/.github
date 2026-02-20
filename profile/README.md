@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" top="500" height="550" width="300" alt="GIF" src="https://media.giphy.com/media/QTmfvHGklosY1ha87W/giphy.gif">
+<img align="right" top="500" height="550" width="300" alt="GIF" src="https://media.giphy.com/media/QTmfvHGklosY1ha87W/giphy.gif" style="z-index: 9;position: sticky;">
 
 ## Our Vision:
 > ### To <b><u>empower businesses</u></b> and <b><u>individuals</u></b> with <b><u>innovative software solutions</u></b> that streamline processes and optimize performance.
